@@ -1,4 +1,4 @@
-¡hi, my name is Luciano Repetti and I'm a fuk stack developer!
+¡hi, my name is Luciano Repetti and I'm a full stack developer!
 
 <!---
 luciano-repetti/luciano-repetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
