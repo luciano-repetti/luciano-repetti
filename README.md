@@ -14,6 +14,7 @@
 
 📧 **Contact:**
 - Email: lucianorepetticontacto@gmail.com
+- LinkedIn: <a href="https://www.linkedin.com/in/luciano-repetti-1182b1210/" target="_blank">Luciano Repetti</a>
 
 🌐 **Interests:**
 - Excited to connect with professionals in the field.
