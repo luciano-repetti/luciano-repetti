@@ -13,7 +13,7 @@
 - Curious and always in constant learning.
 
 📧 **Contact:**
-- Email: lucianorepetticontacto@gmail.com
+- Email: lucianorepetti2020@gmail.com
 - LinkedIn: <a href="https://www.linkedin.com/in/luciano-repetti-1182b1210/" target="_blank">Luciano Repetti</a>
 
 🌐 **Interests:**
